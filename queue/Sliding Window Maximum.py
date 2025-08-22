@@ -8,7 +8,7 @@ def sliding_window_max(arr,k):
     if k==1:
         return arr
     
-    d= deque()
+    d= deque()   # store indices (not values)
     result=[]
     
     for i in range(n):
