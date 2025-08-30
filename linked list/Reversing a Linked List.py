@@ -33,7 +33,9 @@ class linkedlist:
             current.next = prev
             
             prev = current 
+            
             current = next_node 
+            
         self.head = prev
         
      # Recursive reverse

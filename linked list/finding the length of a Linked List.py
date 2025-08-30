@@ -7,7 +7,7 @@ class LL:
     def __init__(self):
         self.head = None
         
-    def traverse(self):
+    def traverse(bothself):
         if self.head is None:
             print('empty ll')
             return
