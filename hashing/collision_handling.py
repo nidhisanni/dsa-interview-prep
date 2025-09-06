@@ -45,3 +45,6 @@ ht.display()
 print("bat:", ht.get("bat"))
 print("tab:", ht.get("tab"))
 print("apple:", ht.get("apple"))
+ 
+ 
+ 
